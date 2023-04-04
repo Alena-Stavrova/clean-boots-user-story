@@ -5,8 +5,8 @@ Inspired by the Task #9 [here](https://www.ministryoftesting.com/articles/40bce4
 
 As an owner of boots that sometimes get dirty, I would like to be able to clean my boots with saddle soap so that they look good, are maintained properly and will last me long.
 Dependencies of the story:
-1) Tools needed: saddle soap (in a tin container with a lid), a circular horsehair shoe brush (or a sponge), microfiber cloth, shoe cream (or a conditioner)
-2) Access to sink with a functioning faucet
+1) Tools needed: a saddle soap (in a tin container with a lid), a circular horsehair shoe brush (or a sponge), a microfiber cloth, a shoe cream (or a conditioner)
+2) Access to a sink with a functioning faucet
 3) Boots
 
 Acceptance criteria:
